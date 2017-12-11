@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<project name="D:\UniServerZ\www\votacion\votacion.clpprj">
+	<settings><PM_URL><![CDATA[D:/UniServerZ/www/votacion/]]></PM_URL><PM_HOME_URL><![CDATA[D:/UniServerZ/www/votacion/]]></PM_HOME_URL><PM_LIBS><![CDATA[]]></PM_LIBS><PM_FTP_CONNECTION><![CDATA[]]></PM_FTP_CONNECTION><PM_FTP_DIR><![CDATA[]]></PM_FTP_DIR><PM_FTP_UPLOAD_ON_SAVE><![CDATA[INT:0]]></PM_FTP_UPLOAD_ON_SAVE></settings><removed value=";"/><added value=""/><lastopfiles>
+		<file name="D:\UniServerZ\www\votacion\index.php"/>
+		<file name="D:\UniServerZ\www\votacion\init.php"/>
+		<file name="D:\UniServerZ\www\votacion\config\application.ini"/>
+		<file name="D:\UniServerZ\www\votacion\Codelobster0.html"/>
+	</lastopfiles>
+	<errors version="5.11">
+		<errfile name="D:\UniServerZ\www\votacion\votacion.php">
+			<error val="4;8;5;8;251;1;"/>
+		</errfile>
+		<errfile name="D:\UniServerZ\www\votacion\index.php">
+			<error val="4;17;22;17;2502;1;"/>
+		</errfile>
+	</errors>
+	<cakedata>
+	</cakedata>
+	<dplmenupath>
+	</dplmenupath><laravael>
+	</laravael><smartyassings>
+	</smartyassings><twigtemplate>
+	</twigtemplate><yiidata>
+	</yiidata>
+	<todoblock>
+	</todoblock>
+	<filescache>
+		<file name="D:\UniServerZ\www\votacion\media\jquery.min.js" crc="1509237601"/>
+		<file name="D:\UniServerZ\www\votacion\config\application.ini" crc="1510584681"/>
+		<file name="D:\UniServerZ\www\votacion\config\.htaccess" crc="1480454760"/>
+		<file name="D:\UniServerZ\www\votacion\votacion.php" crc="1512935331"/>
+		<file name="D:\UniServerZ\www\votacion\init.php" crc="1511643487"/>
+		<file name="D:\UniServerZ\www\votacion\index.php" crc="1512942975"/>
+		<file name="D:\UniServerZ\www\votacion\Codelobster0.html" crc="1512859448"/>
+	</filescache>
+</project>

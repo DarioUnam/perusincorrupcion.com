@@ -1,0 +1,22 @@
+<codestructure version="5.13">
+<phptree>
+<treenode node="cmd.php;PHP:PHP Include;D:\UniServerZ\www\ERS\ers3\Untitled.php;f9;2;16;2;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="DATABASE;PHP:PHP Word;D:\UniServerZ\www\votacion\init.php;f8;8;16;8;;;;vpos;;v;;r$ini[&apos;database&apos;;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="escritor.php;PHP:PHP Include;D:\UniServerZ\www\ERS\ers3\Untitled.php;f14;3;26;3;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="HOST;PHP:PHP Word;D:\UniServerZ\www\votacion\init.php;f8;7;12;7;;;;vpos;;v;;r$ini[&apos;database&apos;;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="init.php;PHP:PHP Include;D:\UniServerZ\www\ERS\ers3\Untitled.php;f9;1;17;1;;D:\UniServerZ\www\votacion\votacion.php;f14;1;22;1;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="PASS;PHP:PHP Word;D:\UniServerZ\www\votacion\init.php;f8;10;12;10;;;;vpos;;v;;r$ini[&apos;database&apos;;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="USER;PHP:PHP Word;D:\UniServerZ\www\votacion\init.php;f8;9;12;9;;;;vpos;;v;;r$ini[&apos;database&apos;;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="microtime_float;PHP:Function Name;D:\UniServerZ\www\votacion\init.php;f0;18;1;22;;;;vpos;;v;;r;;d0,19;;b0,0;;m">
+</treenode>
+<treenode node="mysql_query_get;PHP:Function Name;D:\UniServerZ\www\votacion\init.php;f0;12;1;16;;;;vpos;;v;;r;;d0,13;;b0,0;;mquery;;p">
+</treenode>
+</phptree>
+</codestructure>
